@@ -14,5 +14,5 @@ jobs:
         MAX_DAYS: 90
         MIN_COMMITS_PER_DAY: 0
         MAX_COMMITS_PER_DAY: 2
-        INCLUDE_WEEKENDS:false
+        INCLUDE_WEEKENDS: false
         
