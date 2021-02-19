@@ -10,7 +10,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         GIT_EMAIL: rich.castro@achesongroup.com
-        ORIGIN_TIMESTAMP: 2020/05/01
+        ORIGIN_TIMESTAMP: 05-05-2020
         MAX_DAYS: 90
         MIN_COMMITS_PER_DAY: 0
         MAX_COMMITS_PER_DAY: 2
